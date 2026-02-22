@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification">#3F51B5</color>
+
+    <color name="app_color_light">#3F51B5</color>
+    <color name="app_color_dark">#B1B8DF</color>
+
+    <color name="zoe_primary">#6750A4</color>
+    <color name="zoe_primary_light">#D0BCFF</color>
+    <color name="zoe_primary_dark">#381E72</color>
+    <color name="zoe_secondary">#625B71</color>
+    <color name="zoe_secondary_light">#CCC2DC</color>
+    <color name="zoe_secondary_dark">#332D41</color>
+    <color name="zoe_tertiary">#7D5260</color>
+    <color name="zoe_tertiary_light">#FFD8E4</color>
+    <color name="zoe_tertiary_dark">#31111D</color>
+    
+    <color name="zoe_surface_light">#FFFBFE</color>
+    <color name="zoe_surface_dark">#1C1B1F</color>
+    <color name="zoe_surface_variant_light">#E7E0EC</color>
+    <color name="zoe_surface_variant_dark">#49454F</color>
+    
+    <color name="zoe_card_background_light">#F7F2FA</color>
+    <color name="zoe_card_background_dark">#2B2930</color>
+    <color name="zoe_card_stroke_light">#CAC4D0</color>
+    <color name="zoe_card_stroke_dark">#938F99</color>
+    
+    <color name="zoe_success">#4CAF50</color>
+    <color name="zoe_warning">#FF9800</color>
+    <color name="zoe_error">#F44336</color>
+    <color name="zoe_info">#2196F3</color>
+    
+    <color name="zoe_gradient_start">#6750A4</color>
+    <color name="zoe_gradient_end">#9A82DB</color>
+</resources>
